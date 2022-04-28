@@ -1,0 +1,15 @@
+<resources>
+    <!-- Number of players Fragment -->
+    <string name="app_name">TestApp</string>
+    <string name="button_next">Next</string>
+    <string name="num_of_players_text">How many would like to play?</string>
+    <!-- Spinner -->
+    <string name="spinner_list">spinner</string>
+
+    <!-- Name of players Fragment -->
+    <string name="input_name_field">Name</string>
+    <string name="add_player_button">Add Player</string>
+
+    <!-- GameQuestionToFrom Fragment -->
+    <string name="question">question</string>
+</resources>
